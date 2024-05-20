@@ -36,6 +36,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
+       <center className="bg-neutral-300 py-4 mt-3"><em>&copy;This site is made by Anjali.. 2024</em></center>
     </footer>
   );
 };
